@@ -47,7 +47,7 @@ A smart campus dining solution engineered to reduce wait times at student mess l
 
 Let's build something impactful together!
 
-* **LinkedIn:** [Aditya Kumar](https://www.linkedin.com/) *(https://www.linkedin.com/)*
+* **LinkedIn:** [Aditya Kumar](https://www.linkedin.com/in/adityakumar12580/) 
 * **GitHub:** [@Adiunderprogress](https://github.com/Adiunderprogress)
 
 ---
